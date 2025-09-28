@@ -1,22 +1,16 @@
-# Exercise-02d-Scenes-And-Menus
-
-Exercise for MSCH-C220
-
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+# Project02-DesertsV.Fish
+You play as a dount and have to kill the fish while battling a dount that betrayed you.
 
 ## Implementation
-
-Created using [Unity 2022.3.45f](https://unity.com)
-
-Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
+Borrowed assets from https://kenney.nl 
+Added 3 different particles for each enemy/obstacle
+Changed the backround on the start, playing the game, and ending screen.
 
 ## References
 None
 
 ## Future Development
-Advanced feartures?
+None
 
 ## Created by
 Lillian Hagedorn
